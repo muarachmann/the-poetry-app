@@ -1,5 +1,5 @@
 # the-poetry-app
- Free writers Login, have your account Where you can write
+ the Poetry App is a web application which permits users to write and publish their articules such as poems, newsletters, essays, etc for the general public. Free writers Login, have your account Where you can write and publish your document.
 
 # Contributing to this project
 If you are interested in contributing to this project as a developer, look for an issue which you are interested in working on an when you are ready to start writing some code, do the following
